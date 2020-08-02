@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fcc466321b9694106dc28483cc4bcbaf" sys_domain="global" table="x_snc_ny1_0802_ny1_0802" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>str_01</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-02 04:34:03</sys_created_on>
+            <sys_id>c9c466321b9694106dc28483cc4bcbb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_ny1_0802_ny1_0802" sys_domain="global" view="Default view">fcc466321b9694106dc28483cc4bcbaf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-02 04:34:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_ny1_0802_ny1_0802</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-02 04:34:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcc466321b9694106dc28483cc4bcbaf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_ny1_0802_ny1_0802</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ny1 0802" source="x_snc_ny1_0802">9fe016761b5694106dc28483cc4bcb12</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ny1 0802">9fe016761b5694106dc28483cc4bcb12</sys_scope>
+            <sys_update_name>sys_ui_section_fcc466321b9694106dc28483cc4bcbaf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-02 04:34:02</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
