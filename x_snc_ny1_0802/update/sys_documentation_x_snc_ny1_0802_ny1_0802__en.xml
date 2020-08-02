@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="ny1 0802" language="en" table="x_snc_ny1_0802_ny1_0802">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>ny1 0802</label>
+            <language>en</language>
+            <name>x_snc_ny1_0802_ny1_0802</name>
+            <plural>ny1 0802s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-02 03:08:55</sys_created_on>
+            <sys_id>0e419a761b5694106dc28483cc4bcb8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ny1 0802</sys_name>
+            <sys_package display_value="ny1 0802" source="x_snc_ny1_0802">9fe016761b5694106dc28483cc4bcb12</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ny1 0802">9fe016761b5694106dc28483cc4bcb12</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ny1_0802_ny1_0802__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-02 03:08:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
